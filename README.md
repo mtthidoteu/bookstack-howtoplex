@@ -2,6 +2,8 @@
 # Introduction
 I created a small BookStack Wiki intended to easily explain how to Install, Create an Account, and request Movies on Plex (Using overseerr as a request Software). Feel free to use!
 
+Below is an example of one of the pages:
+
 ![Preview](https://github.com/mtthidoteu/bookstack-howtoplex/blob/01cd557d77edc36d5744cce8c36a3c1dcfadd55a/preview.png)
 
 # How to use/import.
